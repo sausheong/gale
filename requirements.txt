@@ -1,0 +1,7 @@
+load_dotenv
+langchain
+openai
+pinecone-client
+tiktoken
+unstructured[local-inference]
+pypdf
